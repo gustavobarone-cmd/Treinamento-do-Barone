@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "alberto_banco_3_blocos_remadas_squats",
+  "program": "alberto",
+  "cycle": "Banco de treinos",
+  "phase": "Avulso",
+  "name": "Banco Alberto — Remadas, Barras e Squats em 3 Blocos",
+  "duration_min": 27,
+  "source": "Informado por Gustavo Barone em conversa",
+  "notes": [
+    "Treino passado pelo personal Alberto.",
+    "Formato original: 3 blocos de 9 minutos.",
+    "Atenção ao ombro: evitar dor ou desconforto; ajustar apoio fechado, tríceps banco e pegadas abertas se houver sintomas.",
+    "Cargas foram mantidas como informadas. Quando houver faixa, iniciar conservador e progredir conforme técnica e dor."
+  ],
+  "blocks": [
+    {
+      "type": "circuito",
+      "name": "Bloco 1 — 9 min",
+      "duration_sec": 540,
+      "rest_between_exercises_sec": 0,
+      "items": [
+        {
+          "exerciseName": "Remada curvada pegada aberta",
+          "exercise_name": "Remada curvada pegada aberta",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 6
+          },
+          "reps": 6,
+          "load": {
+            "type": "range",
+            "min": 30,
+            "max": 35,
+            "unit": "kg"
+          },
+          "load_kg": 30,
+          "equipment": "Barra longa e anilhas",
+          "notes": "6 reps com 30 a 35 kg. Usar pegada aberta, tronco firme e puxar sem elevar ombros."
+        },
+        {
+          "exerciseName": "Abdominal canivete",
+          "exercise_name": "Abdominal canivete",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 20
+          },
+          "reps": 20,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Solo/colchonete",
+          "notes": "20 reps. Controlar lombar e não puxar o pescoço."
+        },
+        {
+          "exerciseName": "Prancha",
+          "exercise_name": "Prancha",
+          "sets": 1,
+          "prescription_mode": "tempo",
+          "target": {
+            "scheme": "time",
+            "seconds": 40
+          },
+          "seconds": 40,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Solo/colchonete",
+          "notes": "40 segundos. Travar abdome e glúteos."
+        },
+        {
+          "exerciseName": "Barra fixa supinada",
+          "exercise_name": "Barra fixa supinada",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 6
+          },
+          "reps": 6,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Barra fixa",
+          "notes": "6 reps. Subir controlado e evitar compensar com balanço."
+        },
+        {
+          "exerciseName": "Front squat na rampa",
+          "exercise_name": "Front squat na rampa",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_range",
+            "min": 12,
+            "max": 15
+          },
+          "reps": 12,
+          "load": {
+            "type": "fixed",
+            "value": 26,
+            "unit": "kg"
+          },
+          "load_kg": 26,
+          "equipment": "Rampa/calço + carga",
+          "notes": "12 a 15 reps com 26 kg. Manter tronco alto e joelhos alinhados."
+        }
+      ]
+    },
+    {
+      "type": "circuito",
+      "name": "Bloco 2 — 9 min",
+      "duration_sec": 540,
+      "rest_between_exercises_sec": 0,
+      "items": [
+        {
+          "exerciseName": "Remada serrote unilateral",
+          "exercise_name": "Remada serrote unilateral",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_each_side",
+            "reps": 8
+          },
+          "reps": 8,
+          "load": {
+            "type": "fixed",
+            "value": 26,
+            "unit": "kg"
+          },
+          "load_kg": 26,
+          "equipment": "Kettlebell ou halter 26 kg",
+          "notes": "8 reps por lado com 26 kg. Apoiar bem e puxar o cotovelo para trás."
+        },
+        {
+          "exerciseName": "Barra fixa pegada aberta",
+          "exercise_name": "Barra fixa pegada aberta",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_range",
+            "min": 6,
+            "max": 8
+          },
+          "reps": 6,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Barra fixa",
+          "notes": "6 a 8 reps. Reduzir amplitude/volume se o ombro reclamar na pegada aberta."
+        },
+        {
+          "exerciseName": "Pause squat com calço abaixo dos pés",
+          "exercise_name": "Pause squat com calço abaixo dos pés",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 5
+          },
+          "reps": 5,
+          "load": {
+            "type": "range",
+            "min": 15,
+            "max": 20,
+            "unit": "kg",
+            "per": "side"
+          },
+          "load_kg": 30,
+          "equipment": "Rack, barra, anilhas e calço",
+          "notes": "5 reps com 15 a 20 kg cada lado. Fazer pausa no fundo mantendo tensão."
+        },
+        {
+          "exerciseName": "Tríceps banco",
+          "exercise_name": "Tríceps banco",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 15
+          },
+          "reps": 15,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Banco/step",
+          "notes": "15 reps. Se incomodar o ombro, trocar por tríceps no chão ou remover."
+        },
+        {
+          "exerciseName": "Apoio fechado",
+          "exercise_name": "Apoio fechado",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps",
+            "reps": 15
+          },
+          "reps": 15,
+          "load": {
+            "type": "bodyweight"
+          },
+          "load_kg": null,
+          "equipment": "Solo/step",
+          "notes": "15 reps. Cotovelos próximos ao corpo; usar inclinação no step se necessário."
+        }
+      ]
+    },
+    {
+      "type": "circuito",
+      "name": "Bloco 3 — 9 min",
+      "duration_sec": 540,
+      "rest_between_exercises_sec": 0,
+      "items": [
+        {
+          "exerciseName": "Back squat com calço",
+          "exercise_name": "Back squat com calço",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_range",
+            "min": 6,
+            "max": 8
+          },
+          "reps": 6,
+          "load": {
+            "type": "range",
+            "min": 30,
+            "max": 35,
+            "unit": "kg"
+          },
+          "load_kg": 30,
+          "equipment": "Rack, barra, anilhas e calço",
+          "notes": "6 a 8 reps com calço, 30 a 35 kg. Confirmar se carga é total ou por lado no próximo ajuste."
+        },
+        {
+          "exerciseName": "Tríceps testa com halter montado",
+          "exercise_name": "Tríceps testa com halter montado",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_range",
+            "min": 12,
+            "max": 15
+          },
+          "reps": 12,
+          "load": {
+            "type": "custom",
+            "description": "halter montado"
+          },
+          "load_kg": null,
+          "equipment": "Halter montado",
+          "notes": "12 a 15 reps. Controlar cotovelos e evitar amplitude que irrite ombro/cotovelo."
+        },
+        {
+          "exerciseName": "Rosca cabo com barra média reta",
+          "exercise_name": "Rosca cabo com barra média reta",
+          "sets": 1,
+          "prescription_mode": "series",
+          "target": {
+            "scheme": "reps_range",
+            "min": 12,
+            "max": 15
+          },
+          "reps": 12,
+          "load": {
+            "type": "stack",
+            "value": 8,
+            "unit": "barras"
+          },
+          "load_kg": null,
+          "equipment": "Cabo + barra média reta",
+          "notes": "8 barras, 12 a 15 reps. Se estiver treinando em casa sem cabo, substituir por rosca direta barra reta/W."
+        }
+      ]
+    }
+  ]
+}
